@@ -1,7 +1,7 @@
 import wepy from 'wepy'
 
 // 服务器接口地址
-const host = 'http://larabbs.test/api'
+const host = 'https://www.strongernote.com/api'
 
 // 普通请求
 const request = async (options, showLoading = true) => {
